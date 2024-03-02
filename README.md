@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://s13.gifyu.com/images/SjvHv.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahasaracoglu&label=Profile%20views&color=0e75b6&style=flat" alt="bahasaracoglu" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.Net Core**
 
 - 📫 How to reach me **bahasaracoglu@gmail.com**
 
